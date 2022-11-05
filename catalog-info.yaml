@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test45"
+spec:
+  type: service
+  owner: user:raghav
+  lifecycle: experimental
